@@ -3,9 +3,9 @@
 Takes a maintenance complaint in plain English, figures out what kind of problem it is, how urgent, and saves it to a database.
 
 ## Quick Start
-
+```bash
 python main.py
-
+```
 No installation needed. Uses only Python standard library.
 
 ## What It Does
